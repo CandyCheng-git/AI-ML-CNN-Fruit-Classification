@@ -56,7 +56,7 @@ fruit-classification-cnn/
 ├─ environment.yml
 ├─ .gitignore
 ├─ notebooks/
-│  └─ Fruit_Classification_Assessmennt-1844721.ipynb
+│  └─ Fruit_Classification_Assessmennt.ipynb
 ├─ model/
 │  └─ fruit_classifier_final_best_model.keras
 ├─ src/
@@ -117,4 +117,4 @@ This project shows more than model training. It demonstrates:
 
 ## Author
 
-Lok Tung Cheng
+[Candy Cheng](https://github.com/CandyCheng-git/)

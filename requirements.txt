@@ -1,0 +1,10 @@
+tensorflow==2.15.0
+keras==2.15.0
+numpy==1.26.4
+pandas==2.2.3
+scikit-learn==1.6.1
+matplotlib==3.10.1
+seaborn==0.13.2
+pillow==11.2.1
+keras-tuner==1.4.7
+jupyterlab==4.4.1
